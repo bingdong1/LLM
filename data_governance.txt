@@ -1,0 +1,74 @@
+What is data governance in healthcare?
+
+The data that healthcare organizations hold is incredibly valuable – it’s perhaps the most valuable asset they have. At an individual level, patient data often contains the key to understanding illness and potential recovery. Viewed more broadly, the data associated with a patient’s engagement with a healthcare provider – for example, admissions records and procedures performed – can provide insights into the future strategy of the organization. 
+
+As a result, data governance in healthcare is non-negotiable. Data governance is about managing data and processes so data can be used as a consistent, secure and organized asset that meets policies and standards. When data governance is implemented and scaled properly, it can transform healthcare organizations into Data Intelligent enterprise. But without data governance or when data governance is implemented poorly, healthcare organizations struggle to organize and optimize use of their data and ultimately, end up with heavy fines, unhappy clients, and unproductive employees. 
+
+The importance of data governance in healthcare
+Data governance is important for a healthcare organization because these organizations deal with large volumes of sensitive data, are faced with numerous complex regulations, and are typically rather siloed in operation. Data governance helps because healthcare organizations unlock the value of their data so they can use their data to make impactful decisions. 
+
+Large volumes of sensitive data
+Healthcare organizations hold extremely sensitive information. Organizations need to be vigilant about their data use because consumers have a unique and protective relationship with their health information; in fact, RSA Archer conducted a study on data security and found that 61% of American consumers are concerned about the security of their medical information. As businesses collect more information and consumer concern about data protection grows, data governance in healthcare becomes even more integral. Organizations need to be cognizant of what data they have, where the data is stored, and how it’s used in order to ensure ethical data practices and instill trust in their customers.
+
+Numerous and complex regulations
+Likewise, healthcare organizations operate in a highly regulated industry, which often has standards or regulations around data privacy and data security.
+
+Although the United States enacted the Health Insurance Portability and Accountability Act (HIPAA) back in 1996, organizations continue to experience difficulty complying with the regulation. HIPAA serves as the foundational piece of regulation in the United States for establishing national standards for protecting patients’ health information. Managing the rules and principles of HIPAA and other data protection regulations creates additional complexity for data management and data governance in healthcare organizations.
+
+Healthcare organizations have to worry about more than just industry specific regulations. There are more general rules too – for example, within the European Union (EU) there is the General Data Protection Regulation (GDPR), and in the US there is the new California Consumer Privacy Act (CCPA). In addition to the regulations,  healthcare organizations are at an elevated level of risk when it comes to cyber threats. Concerns about risk and compliance can make it daunting to consider more advanced approaches to managing data – will patient data be safe, and will the organization remain compliant?
+
+Data silos
+Another common data governance challenge that is exacerbated in the healthcare industry is the formation of data silos. Usually, patient data sits in individual departments and these departments rarely communicate with each other. This makes it difficult to access data across the organization, causing patients to repeatedly fill out paper forms giving their name, address, and other basic details. Since this information is usually manually imputed, the more times the form is filled out, the more likely human error will occur. In addition, there are often also manual processes for finding and linking data. Data can also be stored in spreadsheets, PDFs – or even still on paper! Basic operational issues like these can lead to low data quality, or an inability to create a holistic picture of an individual patient’s care.
+
+Silos create other challenges too. For example, often there is no agreed data infrastructure or security standards between technology systems. There can be inconsistencies in the way data is stored, or shared – data models of technology tools can vary widely.
+
+
+All that being said, the good news is that a robust data governance program can help solve many of these challenges. It’s important for healthcare organizations to consider the positive reasons for embracing data governance in healthcare and understand the change that data governance is capable of enabling. 
+
+How to develop a winning strategy
+The steps for laying the foundation for successful data governance in a healthcare organization are similar to those in any organization. We recommend these six steps in order to start successfully:
+
+1. Identify roles and responsibilities
+Determine who touches your healthcare data. Who creates it? Who approves it? Who uses it? What do those people use it for and what makes it relevant to them? Who provides the data? Who owns those systems? Who owns the processes?
+
+2. Define your data domains
+Identify the different data elements that your data uses, as well as the data types and data values associated with those elements. Assign domain owners to begin establishing a stewardship hierarchy. By establishing data domains, you will identify additional stakeholders who should be included in your operating model.
+
+3. Establish data workflows
+Think of this as a data supply chain. Map out where the data comes from, how it gets there, and who is involved in the processes.
+
+4. Establish data controls
+This is where you get to the core of true data governance—establishing appropriate controls and processes to optimize your data’s quality and integrity.
+
+Define key controls, metrics, and data thresholds. Develop report processes around what data is used and how it is ingested. Establish a feedback mechanism to identify, prioritize and resolve data related issues.
+
+5. Identify authoritative data sources
+Assess these sources against the controls you’ve established and create a roadmap for promoting adoption of these data sources enterprise-wide.
+
+6. Establish policies and standards
+Yes, you’ve been working on policies and standards since Step 1. But now that you’ve proven the value of data governance to your supporting stakeholders, it’s time to roll out those policies and standards more widely.
+
+Best practices for data governance in healthcare
+Start small
+One of the most common mistakes that healthcare organizations make when starting a data governance program is starting out too broadly. There is no need to boil the ocean. Start small.
+
+Starting small allows you to narrow in your focus for why you need data governance. Starting small with data governance in healthcare allows you to tackle one challenge at a time and then eventually scale that approach to tackle other uses.
+
+Build a business case
+The most successful programs are tied to business imperatives. The same goes for building data governance for a healthcare organization. Don’t just start a project because data governance is a buzzword; build a scalable data governance program that can transform your business. Data governance can be tied to a number of needs, both offensive and defensive. Consider these data fueled outcomes when building your case for data governance:
+
+Offensive
+
+Revenue growth – customer acquisition, product innovation, promotion analysis, pricing optimization
+Operational efficiency – supply chain optimization, product inventory efficiency, marketing and sales efficiency, service optimization
+Defensive
+
+Risk mitigation – data privacy compliance, personal information (PI) data discovery, policy enforcement, vendor risk management
+Data modernization – third party spend reduction, data lake optimization, report/application consolidation, reference data management
+Communicate with stakeholders
+Once you have identified the business cases for data governance, communicate to stakeholders early and often. Clearly articulate the value of data governance in healthcare, so you can get buy in from multiple parts of the organization. Data governance does not just impact the data team; it impacts, BI and analytics, IT, finance, marketing, legal, and more.
+
+Enable with knowledge, technology and training
+It’s one thing to have stakeholder buy-in, and it’s another to have enterprise adoption. In order to make your data governance program effective, you need to educate and enable data users. Like the stakeholders, all users need to comprehend the advantages of data governance in healthcare and the negative consequences of inaction in order for them to embrace data governance. Educate them on the topic, enable them with easy to use technology, and train them on how to use their data and leverage technology to work more more efficiently.
+
+A strong data governance foundation can ensure your organization is accessing the most trusted data and that you remain compliant. Getting data governance right can help healthcare organizations tackle the challenges they face, embrace the changing nature of their industry, and transform themselves by responding in new ways to opportunities.
